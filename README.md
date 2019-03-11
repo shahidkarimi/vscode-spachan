@@ -15,7 +15,7 @@
 
 ## Activate Spachan Theme
 
-Run Visual Studio Code. The Dracula Syntax Theme will be ``available from File -> Preferences -> Color Theme`` dropdown menu.
+Run Visual Studio Code. The Spachan Syntax Theme will be ``available from File -> Preferences -> Color Theme`` dropdown menu.
 
 ## License
 
