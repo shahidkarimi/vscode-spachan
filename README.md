@@ -6,8 +6,11 @@
 ## Install using git
 
 ``$ git clone https://github.com/shahidkarimi/vscode-spachan.git ~/.vscode/extensions/theme-spachan``
+
 ``$ cd ~/.vscode/extensions/theme-spachan``
+
 ``$ npm install``
+
 ``$ npm run build``
 
 ## Activate Spachan Theme
