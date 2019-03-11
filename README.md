@@ -2,6 +2,7 @@
 
 > An elegant dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
+![Spachan Visual Studio Theme](Screenshot_1.jpg)
 
 ## Install using git
 
