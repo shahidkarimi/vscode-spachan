@@ -1,6 +1,6 @@
 {
 	"name": "theme-spachan",
-	"version": "2.16.0",
+	"version": "1.0.0",
 	"displayName": "spachan Official",
 	"homepage": "https://spachantheme.com/",
 	"description": "Official spachan Theme. A dark theme for many editors, shells, and more.",
@@ -14,15 +14,10 @@
 		"vscode:prepublish": "npm run build"
 	},
 	"maintainers": [
-		"Derek P Sifford <dereksifford@gmail.com>"
+		"Shahid Karimi <karimi.shahid@gmail.com>"
 	],
 	"contributors": [
-		"Krzysztof Wisznarewski",
-		"Daniel Ramos",
-		"Eric Jackson",
-		"Elliott Pogue",
-		"Ajit Singh",
-		"Teddy Bradford"
+		"Shahid Karimi"
 	],
 	"repository": {
 		"type": "git",
@@ -68,8 +63,8 @@
 		"tinycolor2": "^1.4.1"
 	},
 	"__metadata": {
-		"id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-		"publisherDisplayName": "spachan Theme",
-		"publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
+		"id": "4e44877c-1c8d-4f9c-ba86-1372d04ioejU",
+		"publisherDisplayName": "Spachan Theme",
+		"publisherId": "fbb3d030-f8f2-260c-bdb5-99552f6d8c3b"
 	}
 }
